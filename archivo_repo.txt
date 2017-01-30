@@ -1,0 +1,2 @@
+Este es un archivo que se ha generado desde el servidor.
+Para probar los comandos de git.
